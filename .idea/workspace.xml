@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4615b1-ceb0-4d7a-adcf-aa6c7a6ef215" name="Changes" comment="" />
+    <list default="true" id="5c4615b1-ceb0-4d7a-adcf-aa6c7a6ef215" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/model/Imovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/util/ArquivoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/util/ControllerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/view/telas/CadastroImovelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/view/telas/EditarImovelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/view/telas/ListaImoveisView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/view/telas/MenuView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/cadastro/view/telas/TelaPrincipalView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DandaraAndrade&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DandaraAndrade/CadastroImoveis.git&quot;,
+    &quot;accountId&quot;: &quot;a1574321-ce08-4298-bb82-2dd5d3103188&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pjKz2h3aJP40UgC6kOCRzpH4uu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +54,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,6 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733274305678</updated>
+      <workItem from="1733360278725" duration="35000" />
+      <workItem from="1734058280203" duration="98000" />
+      <workItem from="1734066892840" duration="4038000" />
     </task>
     <servers />
   </component>
